@@ -206,7 +206,8 @@ section.main-padding img.content-1 {
     position: relative;
     top: -6rem;
 }
-
+.ovrflw-hid {
+	overflow: hidden;
 .h-padding-2 {
     padding-left: 2.5em;
     padding-right: 2.5em;
