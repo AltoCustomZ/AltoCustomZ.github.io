@@ -10,7 +10,7 @@
     width: 100%;
     top: 0;
     left: 0;
-    background-image: url("images/mainstage.jpg");
+    background-image: url("mainstage.jpg");
     background-size: cover;
     background-position: center;
     z-index: -1;
