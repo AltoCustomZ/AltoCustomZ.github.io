@@ -337,6 +337,9 @@ svg {
     section {
         padding: 1em 0em;
     }
+	.pad-bot-540 {
+        padding-bottom: 0em;
+    }
 }
 @media screen and (max-width:375px) {
     div.skills .thrd-bxs {
