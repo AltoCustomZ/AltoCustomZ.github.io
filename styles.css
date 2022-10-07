@@ -322,6 +322,8 @@ svg {
         padding-left: 2em;
         padding-right: 2em;
     }
+	.skills .thrd-bxs {
+           height:25em;
 }
 @media screen and (max-width:420px) {
     .grid-padding {
@@ -342,9 +344,6 @@ svg {
     }
 }
 @media screen and (max-width:375px) {
-    div.skills .thrd-bxs {
-            object-fit: cover;
-            height: 38em;
-            width: 35em;
+
     }
 }
